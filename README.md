@@ -1,5 +1,5 @@
-# Synesthesia
-Rad trippy game
+#Synesthesia
+bggbgbbgbgRad trippy game
 
 Totally radical musical colors game made by three cool dudes
 
